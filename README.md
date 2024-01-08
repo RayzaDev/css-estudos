@@ -1,2 +1,3 @@
-## Estudos de HTML5 - DIO
-Nesse modúlo do curso de HTML5 aprendi sobre estrutura básica, semântica, tags, imagens e organização de lista.
+## Estudos de CSS3 - DIO
+
+Nesse módulo do curso de CSS3
